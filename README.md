@@ -1,10 +1,10 @@
 ## Me chama de Min!! 
-<div align="center">
+<div align="left">
   <a href="https://github.com/yasminnanes">
-      <img align="left" alt="Mei-pic" height="180" style="border-radius:50px;" src="https://c.tenor.com/olxsFL0lgmsAAAAd/yashiro-nene-hanakokun.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminnanes&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
 </div>
-  <div style="display: inline_block"><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminnanes&layout=compact&langs_count=7&theme=moltack"/>
+    <div style="display: inline_block"><br>
   </div>
   
   ##
