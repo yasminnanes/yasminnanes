@@ -1,6 +1,6 @@
 • Learning JS, HTML, CSS and JAVA➐
 <br>
-• Her/hers
+• She/her
 
 <div align="center">
   <a href="https://github.com/yasminnanes">
